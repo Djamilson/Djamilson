@@ -1,12 +1,15 @@
 
-- 👀 I’m interested in ...
-- 🌱 I graduated in Computer Science from the Federal University of Tocantis - UFT.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
 <h1>👋Hi There, I am <a  href="https://techytushar.github.io/">@Djamilson Alves</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
  <div>
+ 
+ - 👀 I’m interested in ...
+- 🌱 I graduated in Computer Science from the Federal University of Tocantis - UFT.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+ 
   <a href="https://github.com/djamilson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djamilson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamilson&layout=compact&langs_count=7&theme=dracula"/>
